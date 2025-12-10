@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family:cursive;
+  font-style: italic;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  height: 100vh;
+  background: #f6f5e0f7;
+  color: white;
+  font-weight: bold;
+}
