@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className='Containser'>
-     <Card name="Sant Tukaram Maharaj " image={Tukaram} />
+     <Card name="Sant Tukaram Maharaj" image={Tukaram} />
      <Card name="Sant Mauli Mahraj" image={Mauli} />
      <Card name="Shri Shivaji Maharaj" image={Shivaji} />
      <Card name="Shri Sambhaji Maharaj" image={S} />
